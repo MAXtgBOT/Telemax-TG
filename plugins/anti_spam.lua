@@ -1,5 +1,4 @@
 
---An empty table for solving multiple kicking problem(thanks to @topkecleon )
 kicktable = {}
 
 do
@@ -132,3 +131,5 @@ return {
 }
 
 end
+--by ramin(@raminoa0
+--#maxbot
