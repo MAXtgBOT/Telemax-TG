@@ -48,6 +48,6 @@ ________________________________________________________________________________
 * **see this channel: https://telegram.me/TeleMaxTeam**
 
 ________________________________________________________________________________
-* ***developer : https://telegram.me/raminoa***
+* ***[developer](https://telegram.me/raminoa : https://telegram.me/raminoa***
 * **founder : https://telegram.me/goraze**
 * **admin : https://telegram.me/Xxicy_boyxX**
