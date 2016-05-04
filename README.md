@@ -1,4 +1,4 @@
-## Tele-Max Is New And Best Bot.
+## *(Tele-Max)* Is New And Best Bot.
 
 ## Based On TeleSeed.
 _________________________________________________________________________________
@@ -44,8 +44,8 @@ ________________________________________________________________________________
 # Dont forgot update {structures.c} befor lunch
 
 # HOW DO MAKE UPDATE THIS FILE?
-* *see this git:  https://github.com/MAXtgBOT/Telemax-TG*
-* *see this channel: https://telegram.me/TeleMaxTeam*
+* **see this git:  https://github.com/MAXtgBOT/Telemax-TG**
+* **see this channel: https://telegram.me/TeleMaxTeam**
 
 ________________________________________________________________________________
 * ***developer : https://telegram.me/raminoa***
