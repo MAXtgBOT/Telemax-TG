@@ -19,5 +19,5 @@ return {
 	run = run,
 	moderated = true
 }
-—by ramin(@Xxicy_boyxX)
+—by amin(@Xxicy_boyxX)
 —#maxbot
