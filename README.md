@@ -44,9 +44,8 @@ ________________________________________________________________________________
 # Dont forgot update {structures.c} befor lunch
 
 # HOW DO MAKE UPDATE THIS FILE?
-
-* ##see this git:  https://github.com/MAXtgBOT/Telemax-TG
-* ##see this channel: https://telegram.me/TeleMaxTeam
+* see this git:  https://github.com/MAXtgBOT/Telemax-TG
+* see this channel: https://telegram.me/TeleMaxTeam
 
 ________________________________________________________________________________
 ##developer : https://telegram.me/raminoa
