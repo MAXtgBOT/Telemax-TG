@@ -232,7 +232,8 @@ function create_config( )
     "autoleave",
     "boobs",
     "hackernews",
-    "giphy"
+    "giphy",
+    "hello"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
