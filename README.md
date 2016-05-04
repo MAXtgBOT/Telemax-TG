@@ -50,6 +50,6 @@ ________________________________________________________________________________
 
 —-------------------------------------------------------------------------------
 
-# developer : https://telegram.me/raminoa
-## founder : https://telegram.me/goraze
-### admin : https://telegram.me/Xxicy_boyxX
+* ##developer : https://telegram.me/raminoa
+* ## founder : https://telegram.me/goraze
+* ## admin : https://telegram.me/Xxicy_boyxX
