@@ -230,7 +230,8 @@ function create_config( )
     "activeuser",
     "save",
     "autoleave",
-    "boobs"
+    "boobs",
+    "hackernews"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
