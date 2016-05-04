@@ -48,8 +48,7 @@ ________________________________________________________________________________
 * ##see this git:  https://github.com/MAXtgBOT/Telemax-TG
 * ##see this channel: https://telegram.me/TeleMaxTeam
 
-—-------------------------------------------------------------------------------
-
-* ##developer : https://telegram.me/raminoa
-* ## founder : https://telegram.me/goraze
-* ## admin : https://telegram.me/Xxicy_boyxX
+________________________________________________________________________________
+##developer : https://telegram.me/raminoa
+## founder : https://telegram.me/goraze
+## admin : https://telegram.me/Xxicy_boyxX
