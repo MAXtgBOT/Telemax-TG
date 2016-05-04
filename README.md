@@ -1,4 +1,4 @@
-# Tele-Max Is New And Best Bot.
+# (Tele-Max) Is New And Best Bot.
 
 ## Based On TeleSeed.
 _________________________________________________________________________________
