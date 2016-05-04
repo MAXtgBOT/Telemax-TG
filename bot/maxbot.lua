@@ -228,7 +228,8 @@ function create_config( )
     "echo",
     "weather",
     "activeuser",
-    "save"
+    "save",
+    "autoleave"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
