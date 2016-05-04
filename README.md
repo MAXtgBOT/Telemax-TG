@@ -1,4 +1,4 @@
-## *Tele-Max* Is New And Best Bot.
+## [Tele-Max](https://telegram.me/tele_max) Is New And Best Bot.
 
 ## Based On TeleSeed.
 _________________________________________________________________________________
