@@ -231,7 +231,8 @@ function create_config( )
     "save",
     "autoleave",
     "boobs",
-    "hackernews"
+    "hackernews",
+    "giphy"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
@@ -244,12 +245,10 @@ https://github.com/MAXtgBOT/Telemax-TG
 Our team!
 ramin(@raminoa)
 rastin(@goraze)
+amin(@xxicy_boyxx)
 
 special thanks to:
 saeed
-mehran
-amin
-shaho
 ]],
     help_text_realm = [[
 Realm Commands:
