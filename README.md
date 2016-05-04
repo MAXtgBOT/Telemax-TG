@@ -1,4 +1,4 @@
-#Tele-Max Is New And Best Bot.
+## Tele-Max Is New And Best Bot.
 
 ## Based On TeleSeed.
 _________________________________________________________________________________
@@ -49,5 +49,6 @@ ________________________________________________________________________________
 
 —-------------------------------------------------------------------------------
 
-### developer : https://telegram.me/raminoa
-##founder : https://telegram.me/goraze
+# developer : https://telegram.me/raminoa
+## founder : https://telegram.me/goraze
+### admin : https://telegram.me/Xxicy_boyxX
