@@ -235,8 +235,8 @@ An advance Administration bot based on yagop/telegram-bot
 https://github.com/MAXtgBOT/Telemax-TG
 
 Our team!
-rastin(@goraze)
 ramin(@raminoa)
+rastin(@goraze)
 
 special thanks to:
 saeed
