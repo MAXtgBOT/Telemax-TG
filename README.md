@@ -1,4 +1,5 @@
 ## [Tele-Max](https://telegram.me/tele_max) Is New And Best Bot.
+[![Join the chat at https://gitter.im/MAXtgBOT/Telemax-TG](https://badges.gitter.im/MAXtgBOT/Telemax-TG.svg)](https://gitter.im/MAXtgBOT/Telemax-TG?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Based On TeleSeed.
 _________________________________________________________________________________
