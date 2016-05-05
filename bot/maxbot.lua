@@ -247,7 +247,9 @@ function create_config( )
     "addplugin",
     "botnumber",
     "anti_ads",
-    "anti_chat"
+    "anti_chat",
+    "anti_fosh",
+    "bot_manager"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
