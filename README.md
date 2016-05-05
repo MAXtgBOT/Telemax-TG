@@ -3,7 +3,7 @@
 ## Based On TeleSeed.
 _________________________________________________________________________________
 ###  For Install  
-bash
+
 sudo apt-get update
 
 sudo apt-get upgrade
@@ -48,6 +48,6 @@ ________________________________________________________________________________
 * **see this channel: https://telegram.me/TeleMaxTeam**
 
 ________________________________________________________________________________
-* **[developer](https://telegram.me/raminoa) : https://telegram.me/raminoa**
-* **[founder](https://telegram.me/goraze) : https://telegram.me/goraze**
-* **[admin](https://telegram.me/xxicy_boyxx) : https://telegram.me/Xxicy_boyxX**
+* **[developer](https://telegram.me/raminoa)** 
+* **[founder](https://telegram.me/goraze)**
+* **[admin](https://telegram.me/xxicy_boyxx)**
