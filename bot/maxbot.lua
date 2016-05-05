@@ -245,7 +245,8 @@ function create_config( )
     "chuck_norris",
     "dogify",
     "addplugin",
-    "botnumber"
+    "botnumber",
+    "anti_ads"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
