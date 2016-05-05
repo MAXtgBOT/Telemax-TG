@@ -236,7 +236,11 @@ function create_config( )
     "hello",
     "plugins",
     "linkpv",
-    "info"
+    "info",
+    "bts",
+    "anti-bot",
+    "bugzilla",
+    "channels"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
