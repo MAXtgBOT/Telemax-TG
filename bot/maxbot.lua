@@ -234,7 +234,8 @@ function create_config( )
     "hackernews",
     "giphy",
     "hello",
-    "plugins"
+    "plugins",
+    "linkpv"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
