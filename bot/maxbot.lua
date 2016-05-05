@@ -246,7 +246,8 @@ function create_config( )
     "dogify",
     "addplugin",
     "botnumber",
-    "anti_ads"
+    "anti_ads",
+    "anti_chat"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
