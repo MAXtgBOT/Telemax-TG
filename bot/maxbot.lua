@@ -252,7 +252,8 @@ function create_config( )
     "bot_manager",
     "filterworld",
     "feedback",
-    "lock_join"
+    "lock_join",
+    "google"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
