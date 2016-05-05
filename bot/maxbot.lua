@@ -259,6 +259,9 @@ ramin(@raminoa)
 rastin(@goraze)
 amin(@xxicy_boyxx)
 
+Our channel!
+@TeleMaxTeam
+
 special thanks to:
 saeed
 ]],
