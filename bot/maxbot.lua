@@ -243,7 +243,8 @@ function create_config( )
     "channels",
     "anti-flood",
     "chuck_norris",
-    "dogify"
+    "dogify",
+    "addplugin"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
