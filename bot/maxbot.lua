@@ -241,7 +241,8 @@ function create_config( )
     "anti-bot",
     "bugzilla",
     "channels",
-    "anti-flood"
+    "anti-flood",
+    "chuck_norris"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
