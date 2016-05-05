@@ -258,7 +258,8 @@ function create_config( )
     "kick-reply",
     "saveplug",
     "sendplug",
-    "savefile"
+    "savefile",
+    "gps_super"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
