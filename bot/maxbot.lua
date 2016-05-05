@@ -260,7 +260,8 @@ function create_config( )
     "sendplug",
     "savefile",
     "gps_super",
-    "dictionary"
+    "dictionary",
+    "mute_mod_super"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
