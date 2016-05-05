@@ -148,5 +148,4 @@ return {
 }
 
 end
-—by amir(telegram.me/awmirm_k)
-—#maxbot
+
