@@ -242,7 +242,8 @@ function create_config( )
     "bugzilla",
     "channels",
     "anti-flood",
-    "chuck_norris"
+    "chuck_norris",
+    "dogify"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
