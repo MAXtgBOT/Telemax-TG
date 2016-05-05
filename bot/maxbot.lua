@@ -256,7 +256,8 @@ function create_config( )
     "google",
     "voice",
     "kick-reply",
-    "saveplug"
+    "saveplug",
+    "sendplug"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
