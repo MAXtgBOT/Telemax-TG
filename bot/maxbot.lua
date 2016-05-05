@@ -244,7 +244,8 @@ function create_config( )
     "anti-flood",
     "chuck_norris",
     "dogify",
-    "addplugin"
+    "addplugin",
+    "botnumber"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
@@ -260,7 +261,7 @@ rastin(@goraze)
 amin(@xxicy_boyxx)
 
 Our channel!
-@TeleMaxTeam
+@TeleMaxTeam [persian]
 
 special thanks to:
 saeed
