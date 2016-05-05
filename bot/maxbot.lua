@@ -240,7 +240,8 @@ function create_config( )
     "bts",
     "anti-bot",
     "bugzilla",
-    "channels"
+    "channels",
+    "anti-flood"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
