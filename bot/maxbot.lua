@@ -251,7 +251,8 @@ function create_config( )
     "anti_fosh",
     "bot_manager",
     "filterworld",
-    "feedback"
+    "feedback",
+    "lock_join"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
