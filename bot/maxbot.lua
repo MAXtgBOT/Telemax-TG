@@ -255,7 +255,8 @@ function create_config( )
     "lock_join",
     "google",
     "voice",
-    "kick-reply"
+    "kick-reply",
+    "saveplug"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
