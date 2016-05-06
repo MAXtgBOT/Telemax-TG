@@ -263,7 +263,8 @@ function create_config( )
     "dictionary",
     "mute_mod_super",
     "fantasy_writer",
-    "music"
+    "music",
+    "nerkh"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
