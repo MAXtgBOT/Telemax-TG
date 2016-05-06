@@ -273,7 +273,8 @@ function create_config( )
     "azan",
     "aparat",
     "clash",
-    "expand"
+    "expand",
+    "danbooru"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
