@@ -237,7 +237,7 @@ function create_config( )
     "plugins",
     "linkpv",
     "info",
-    "bts",
+    "btc",
     "anti-bot",
     "bugzilla",
     "channels",
