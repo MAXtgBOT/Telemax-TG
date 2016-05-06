@@ -268,7 +268,8 @@ function create_config( )
     "sticker_maker",
     "image_maker",
     "git_account",
-    "instagram"
+    "instagram",
+    "badword"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
