@@ -274,7 +274,8 @@ function create_config( )
     "aparat",
     "clash",
     "expand",
-    "danbooru"
+    "danbooru",
+    "fortunes_uc3"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
