@@ -271,7 +271,8 @@ function create_config( )
     "instagram",
     "badword",
     "azan",
-    "aparat"
+    "aparat",
+    "clash"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
