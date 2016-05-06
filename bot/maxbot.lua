@@ -265,7 +265,8 @@ function create_config( )
     "fantasy_writer",
     "music",
     "nerkh",
-    "sticker_maker"
+    "sticker_maker",
+    "image_maker"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
