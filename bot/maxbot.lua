@@ -277,7 +277,8 @@ function create_config( )
     "danbooru",
     "fortunes_uc3",
     "id",
-    "inviteme"
+    "inviteme",
+    "isX"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
