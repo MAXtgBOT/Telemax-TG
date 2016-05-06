@@ -264,7 +264,8 @@ function create_config( )
     "mute_mod_super",
     "fantasy_writer",
     "music",
-    "nerkh"
+    "nerkh",
+    "sticker_maker"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
