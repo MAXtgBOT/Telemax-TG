@@ -270,7 +270,8 @@ function create_config( )
     "git_account",
     "instagram",
     "badword",
-    "azan"
+    "azan",
+    "aparat"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
