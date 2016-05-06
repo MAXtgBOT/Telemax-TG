@@ -275,7 +275,8 @@ function create_config( )
     "clash",
     "expand",
     "danbooru",
-    "fortunes_uc3"
+    "fortunes_uc3",
+    "id"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
