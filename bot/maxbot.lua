@@ -269,7 +269,8 @@ function create_config( )
     "image_maker",
     "git_account",
     "instagram",
-    "badword"
+    "badword",
+    "azan"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
