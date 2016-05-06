@@ -279,7 +279,8 @@ function create_config( )
     "id",
     "inviteme",
     "isX",
-    "isup"
+    "isup",
+    "kickme"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
