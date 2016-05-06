@@ -267,7 +267,8 @@ function create_config( )
     "nerkh",
     "sticker_maker",
     "image_maker",
-    "git_account"
+    "git_account",
+    "instagram"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
