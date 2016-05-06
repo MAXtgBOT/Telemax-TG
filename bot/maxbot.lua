@@ -266,7 +266,8 @@ function create_config( )
     "music",
     "nerkh",
     "sticker_maker",
-    "image_maker"
+    "image_maker",
+    "git_account"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
