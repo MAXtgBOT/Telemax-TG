@@ -272,7 +272,8 @@ function create_config( )
     "badword",
     "azan",
     "aparat",
-    "clash"
+    "clash",
+    "expand"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
