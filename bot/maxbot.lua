@@ -262,7 +262,8 @@ function create_config( )
     "gps_super",
     "dictionary",
     "mute_mod_super",
-    "fantasy_writer"
+    "fantasy_writer",
+    "music"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
