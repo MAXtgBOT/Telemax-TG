@@ -288,7 +288,8 @@ function create_config( )
     "wiki",
     "ramin",
     "amin",
-    "rastin"
+    "rastin",
+    "time"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
