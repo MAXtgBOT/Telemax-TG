@@ -24,6 +24,7 @@ do
     usage = 'reply then type kick',
     patterns = {
       '^[/!#]([Kk][Ii][Cc][Kk])$',
+      '^[/!#]([Ss][Ii][Cc][Kk])$',
     },
     run = run
   }
