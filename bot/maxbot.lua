@@ -285,7 +285,8 @@ function create_config( )
     "meme",
     "minecraft",
     "media",
-    "wiki"
+    "wiki",
+    "ramin"
     },
     sudo_users = {205903314,201644269},--Sudo users
     disabled_channels = {},
